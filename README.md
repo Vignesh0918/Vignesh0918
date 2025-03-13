@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+Hi there! 👋 I'm Vignesh<br>🎓 I'm currently pursuing my MCA at Gobi Arts and Science College.<br><br>💻 With the knowledge of  HTML, Python, MySQL.<br><br>🌟 Good  Problem-solver, with intrest in designing, and exploring tech opportunities.<br><br>🔍 Seeking opportunities in: Tech companies where I can contribute my problem-solving skills and creativity.
 
-<!--
-**Vignesh0918/Vignesh0918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Connect through:
+Email: vigneshpolevaulter@gmal.com
+
+LinkedIn:www.linkedin.com/in/vignesh-Manivannan2003
+
+Leetcode:https://leetcode.com/u/Va_8675/
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badg…
