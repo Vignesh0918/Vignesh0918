@@ -5,7 +5,7 @@ Hi there! 👋 I'm Vignesh<br>🎓 I'm currently pursuing my MCA at Gobi Arts an
 
 
 ## Connect through:
-Email: vigneshpolevaulter@gmal.com
+Email: vigneshpolevaulter@gmail.com
 
 LinkedIn:www.linkedin.com/in/vignesh-Manivannan2003
 
