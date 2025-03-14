@@ -9,7 +9,7 @@ Email: vigneshpolevaulter@gmail.com
 
 LinkedIn:www.linkedin.com/in/vignesh-Manivannan2003
 
-Leetcode:https:
+Leetcode:https:https://leetcode.com/u/Vignesh0918/
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache](https://img.shields.io/badg…
