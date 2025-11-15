@@ -1,6 +1,6 @@
 
-##🌟 Hey, I'm Vignesh — Welcome to My GitHub Universe!
-#👋 About Me
+## 🌟 Hey, I'm Vignesh — Welcome to My GitHub Universe!
+# 👋 About Me
 
 I'm an MCA student passionate about building AI-powered applications, mobile apps, and automation systems using Python and modern AI frameworks. I love turning real‑world problems into smart and scalable solutions.
 
