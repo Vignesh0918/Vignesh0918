@@ -5,7 +5,7 @@
 I'm an MCA student passionate about building AI-powered applications, mobile apps, and automation systems using Python and modern AI frameworks. I love turning real‑world problems into smart and scalable solutions.
 
 ## Connect through:
-Email: vigneshpolevaulter@gmail.com [https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white]
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></img>Email: vigneshpolevaulter@gmail.com 
 
 LinkedIn:www.linkedin.com/in/vignesh-Manivannan2003
 
