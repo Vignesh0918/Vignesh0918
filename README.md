@@ -11,7 +11,7 @@ I'm an MCA student passionate about building AI-powered applications, mobile app
 
 ---
 ## I code in
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white),![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white),
+![python](https://img.icons8.com/?size=96&id=l75OEUJkPAk4&format=png),![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white),
 
 Leetcode:https:https://leetcode.com/u/Vignesh0918/
 
