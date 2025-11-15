@@ -29,7 +29,9 @@ Leetcode:https:https://leetcode.com/u/Vignesh0918/
 - openAI
 - GenAI
 ## Database
-<img width="50" height="50" src="https://img.icons8.com/officel/80/mysql.png" alt="mysql"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png" alt="external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo"/>
+<img width="100" height="100" src="https://img.icons8.com/officel/80/mysql.png" alt="mysql"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png" alt="external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo"/><img width="100" height="1oo" src="https://img.icons8.com/color/48/supabase.png" alt="supabase"/>
+
+---
   
 
 
