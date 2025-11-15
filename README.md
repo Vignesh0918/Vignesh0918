@@ -1,8 +1,8 @@
-# 💫 About Me:
-Hi there! 👋 I'm Vignesh<br>🎓 I'm currently pursuing my MCA at Gobi Arts and Science College.<br><br>💻 With the knowledge of  HTML, Python, MySQL.<br><br>🌟 Good  Problem-solver, with intrest in designing, and exploring tech opportunities.<br><br>🔍 Seeking opportunities in: Tech companies where I can contribute my problem-solving skills and creativity.
 
+##🌟 Hey, I'm Vignesh — Welcome to My GitHub Universe!
+#👋 About Me
 
-
+I'm an MCA student passionate about building AI-powered applications, mobile apps, and automation systems using Python and modern AI frameworks. I love turning real‑world problems into smart and scalable solutions.
 
 ## Connect through:
 Email: vigneshpolevaulter@gmail.com
