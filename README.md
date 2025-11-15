@@ -17,13 +17,20 @@ Leetcode:https:https://leetcode.com/u/Vignesh0918/
 
 
 ## Cloud Computing
-![AWS](https://img.icons8.com/?size=50&id=e6uRfPIDgoXi&format=png)
+![AWS](https://img.icons8.com/?size=70&id=e6uRfPIDgoXi&format=png)
 
 ## Tools
-![git](https://img.icons8.com/?size=50&id=20906&format=png)![postman](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACyUlEQVR4Aa3XA4xcURSA4bNGbdu2bds2l2njNKhtO65tt0Ft23bXnNM/yZvkFcO3L/nOjWauccTVp+H1BP4ojzDsxCPEwGaIwzPsxyRURQBExzcQrz6jYj/UxSo8RyrUhTS8wWY0RSBEw+q6W3Fd1BMUwBx8gnrpK7pCdKIbDdCwevbK6+AcbFALDiEfBP7wgZMhB5rjIdSi26gEQTCmoIdG1RNKh5XXyaDKP6EDRCcgvN54JOIVmkPwTwMK4hzUokSEM50+lII2+AA1XEZxmCoPq+dLOQdqkQ3LEQxBedyAmmEZ/CFCENTDR6hFR5AXglzY52R3NIEI+9PX2Odq0V1UgSAIC5EOdWAD/IVQAc+gFnxGJ4iOqSOU4xAPdeIVqgghDKlQLyUhWsPq2xdda7yHmtjw1mA+MaOEsANqwSqEuFh0D1ETtXAXatgthEdQLx1DftOi2wv9jwvIAUE0bFA8FsIvqBceoBoEgViAdCfT1BeCKvgERYwQ0i1dMiNrC+VYNxbdMgjymKYhzZsGJGOycXiJedG5sBSCvLgHRao3U7AWoRCUw3U3j+deEFTBZyh+eroI76OYcXwHUG6EuuEW8kAwyfx/nm7DOygCHhj1fChb44abB1V/tDPfttjq6UFkw16UhRjKYjfSoE7EIxZqSME4+1H8HOqBG2htunJzYg7ioG56grJC8PYy+oDxNCLIdBaMwBuoG5bxW1+r13ECFiM37G/KprgMdeI9akOEAEsPknQcREWIoSS2OVhbNswwLq8MfZLdQQf4QpAN0xADNTmF/HD4HH9o8TEaiRAIAjAYL03nSC2IRtRzkBNYf5YnYiXygQdKA6FshG1oAYGTxCTCemICG46hmkY1sncuGD5wlR1laGp2DkXgZXIaRnLKaGClB8lpKl5iLRoiwP0GuE7PJ2I7HuIX0pCOGDzCLkSgIvzdqfg3D6KTNRlCvVEAAAAASUVORK5CYII=)![visualstudio](<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+![git](https://img.icons8.com/?size=50&id=20906&format=png)(<img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="50" height="50" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/>
 
 ## Frame Work
-![flutter](https://icons8.com/icon/7I3BjCqe9rjG/flutter)![flask](https://img.icons8.com/?size=50&id=AqYCfGyGXlO7&format=png)![langchain](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbDSRdQfy6hWPUlnc8ul9Yq5Ci9I8fvBBZQ&s)
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>![flask](https://img.icons8.com/?size=70&id=AqYCfGyGXlO7&format=png)![langchain](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbDSRdQfy6hWPUlnc8ul9Yq5Ci9I8fvBBZQ&s)![langgraph](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7Nse8J8kJiE-DEi5rac4zchyOsJrYNvXmLEd6nJDYxcOTALIJbm6V4PFmB_Yz5TGwJo&usqp=CAU)
+
+## AI and ML Experience
+- openAI
+- GenAI
+## Database
+<img width="50" height="50" src="https://img.icons8.com/officel/80/mysql.png" alt="mysql"/><img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png" alt="external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo"/>
+  
 
 
 # 💻 Tech Stack:
