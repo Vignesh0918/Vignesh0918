@@ -7,7 +7,11 @@ I'm an MCA student passionate about building AI-powered applications, mobile app
 ## Connect through:
 ![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)Email: vigneshpolevaulter@gmail.com 
 
-LinkedIn:www.linkedin.com/in/vignesh-Manivannan2003
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)LinkedIn:www.linkedin.com/in/vignesh-Manivannan2003
+
+---
+## I code in
+<img src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white>
 
 Leetcode:https:https://leetcode.com/u/Vignesh0918/
 
