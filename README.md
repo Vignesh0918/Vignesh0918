@@ -1,6 +1,6 @@
 
-## 🌟 Hey, I'm Vignesh — Welcome to My GitHub Universe!
-# 👋 About Me
+# 🌟 Hey, I'm Vignesh — Welcome to My GitHub Universe!
+## 👋 About Me
 
 I'm an MCA student passionate about building AI-powered applications, mobile apps, and automation systems using Python and modern AI frameworks. I love turning real‑world problems into smart and scalable solutions.
 
@@ -12,6 +12,9 @@ I'm an MCA student passionate about building AI-powered applications, mobile app
 ---
 ## I code in
 ![python](https://img.icons8.com/?size=96&id=l75OEUJkPAk4&format=png)![java](https://img.icons8.com/?size=128&id=FRRACRKRsw2s&format=png)![html](https://img.icons8.com/?size=96&id=IQzM79ERZ3I8&format=png)![javascript](https://img.icons8.com/?size=96&id=108784&format=png)![css](https://img.icons8.com/?size=100&id=38272&format=png)![dart](https://img.icons8.com/?size=96&id=7AFcZ2zirX6Y&format=png)
+
+## Learning Platforms
+[![HackerRank](https://img.shields.io/badge/HackerRank-Visit_Profile-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/vigneshpolevaul1)
 
 Leetcode:https:https://leetcode.com/u/Vignesh0918/
 
