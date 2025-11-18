@@ -26,7 +26,7 @@ Leetcode:https:https://leetcode.com/u/Vignesh0918/
 ![git](https://img.icons8.com/?size=100&id=20906&format=png)(<img width="80" height="80" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/> <img width="80" height="80" src="https://img.icons8.com/fluency/48/docker.png" alt="docker"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/render-colored.svg" alt="Render" title="Render" width="80" height="80" />
 
 ## Frame Work
-<img width="100" height="100" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>![flask](https://img.icons8.com/?size=100&id=AqYCfGyGXlO7&format=png)![langchain](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbDSRdQfy6hWPUlnc8ul9Yq5Ci9I8fvBBZQ&s)![langgraph](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7Nse8J8kJiE-DEi5rac4zchyOsJrYNvXmLEd6nJDYxcOTALIJbm6V4PFmB_Yz5TGwJo&usqp=CAU)
+<img width="100" height="100" src="https://img.icons8.com/fluency/48/flutter.png" alt="flutter"/>![langchain](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbDSRdQfy6hWPUlnc8ul9Yq5Ci9I8fvBBZQ&s)![langgraph](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7Nse8J8kJiE-DEi5rac4zchyOsJrYNvXmLEd6nJDYxcOTALIJbm6V4PFmB_Yz5TGwJo&usqp=CAU)
 
 ## AI and ML Experience
 - openAI
