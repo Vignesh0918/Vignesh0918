@@ -43,7 +43,7 @@ clean architecture, proper error handling, and scalable design from day one.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -110,9 +110,7 @@ clean architecture, proper error handling, and scalable design from day one.
 
 <div align="center">
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh0918&show_icons=true&theme=navy&hide_border=true&count_private=true&bg_color=000428&title_color=4D9FFF&icon_color=4D9FFF&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh0918&layout=compact&theme=navy&hide_border=true&bg_color=000428&title_color=4D9FFF&text_color=ffffff)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh0918&theme=dark&hide_border=true&background=000428&ring=4D9FFF&fire=4D9FFF&currStreakLabel=4D9FFF)
 
@@ -127,7 +125,7 @@ clean architecture, proper error handling, and scalable design from day one.
 
 ---
 
-## 📬 Let's Connect
+##  Let's Connect
 
 Open to **Fullstack / AI / DevOps** roles. Let's build something great together!
 
