@@ -10,64 +10,62 @@
 
 ## 🧑‍💻 About Me
 
-> *Fullstack Developer who builds AI-powered applications, mobile apps, and automation systems. I turn real-world problems into smart, scalable solutions.*
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
-- 🤖 Experienced in building end-to-end products — **frontend to backend to cloud**
-- 🧠 Hands-on with **GenAI, OpenAI, LiveKit** for real-time intelligent systems
-- ☁️ Passionate about **DevOps, Cloud infrastructure, and scalable architecture**
-- 🎯 Actively seeking **Software Developer / AI Engineer** roles
+```yaml
+Name     : Vignesh M (Vicky)
+Role     : Fullstack Developer & AI Engineer
+Location : India 🇮🇳
+Focus    : AI Apps · Mobile · Cloud · DevOps
+Status   : Open to Work ✅
+```
+
+- 🔭 Building end-to-end products — **frontend to backend to cloud**
+- 🧠 Hands-on with **GenAI, OpenAI, LiveKit** for intelligent systems
+- ☁️ Passionate about **DevOps, Cloud, and scalable architecture**
+- 🤝 Open to **collaborations and full-time opportunities**
+- ⚡ Real-world builder — every project is production-ready
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-<p>
-<img src="https://img.icons8.com/?size=96&id=l75OEUJkPAk4&format=png" height="60" title="Python"/>
-<img src="https://img.icons8.com/?size=128&id=FRRACRKRsw2s&format=png" height="60" title="JavaScript"/>
-<img src="https://img.icons8.com/?size=96&id=IQzM79ERZ3I8&format=png" height="60" title="TypeScript"/>
-<img src="https://img.icons8.com/?size=96&id=108784&format=png" height="60" title="HTML"/>
-<img src="https://img.icons8.com/?size=100&id=38272&format=png" height="60" title="CSS"/>
-<img src="https://img.icons8.com/?size=96&id=7AFcZ2zirX6Y&format=png" height="60" title="Dart"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
-<p>
-<img src="https://img.icons8.com/fluency/48/flutter.png" height="60" title="Flutter"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpbDSRdQfy6hWPUlnc8ul9Yq5Ci9I8fvBBZQ&s" height="60" title="React Native"/>
-</p>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### AI & Machine Learning
-<p>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LiveKit-FF3B30?style=for-the-badge&logo=webrtc&logoColor=white"/>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LiveKit](https://img.shields.io/badge/LiveKit-FF3B30?style=for-the-badge&logo=webrtc&logoColor=white)
 
 ### Cloud & DevOps
-<p>
-<img src="https://img.icons8.com/?size=100&id=e6uRfPIDgoXi&format=png" height="60" title="AWS"/>
-<img src="https://img.icons8.com/fluency/48/docker.png" height="60" title="Docker"/>
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-</p>
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 ### Databases
-<p>
-<img src="https://img.icons8.com/officel/80/mysql.png" height="60" title="MySQL"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-firebase-a-googles-mobile-platform-that-helps-you-quickly-develop-high-quality-apps-logo-shadow-tal-revivo.png" height="60" title="Firebase"/>
-<img src="https://img.icons8.com/color/48/supabase.png" height="60" title="Supabase"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### Tools
-<p>
-<img src="https://img.icons8.com/?size=100&id=20906&format=png" height="60" title="Git"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="60" title="VS Code"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -109,14 +107,8 @@
 
 ## 🏆 Coding Profiles
 
-<p>
-<a href="https://leetcode.com/u/Vignesh0918/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.hackerrank.com/profile/vigneshpolevaul1">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-</p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vignesh0918/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/vigneshpolevaul1)
 
 ---
 
@@ -124,14 +116,8 @@
 
 Open to **Fullstack / AI / DevOps** roles. Let's build something great together!
 
-<p>
-<a href="mailto:vigneshpolevaulter@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/vignesh-Manivannan2003">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshpolevaulter@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vignesh-Manivannan2003)
 
 ---
 
