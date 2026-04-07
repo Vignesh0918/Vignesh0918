@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=200&section=header&text=Hey%2C%20I'm%20Vignesh%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Builder%20%7C%20DevOps%20Explorer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=200&section=header&text=Hey%2C%20I'm%20Vignesh%20&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Builder%20%7C%20DevOps%20Explorer&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4D9FFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+AI+Engineer;Python+%7C+Flutter+%7C+React+Native;Turning+ideas+into+scalable+products+🚀;Open+to+work+%7C+Let's+build+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4D9FFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+AI+Engineer;Python+%7C+Flutter+%7C+React+Native;Turning+ideas+into+scalable+products+;Open+to+work+%7C+Let's+build+together!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
@@ -32,11 +32,11 @@ clean architecture, proper error handling, and scalable design from day one.
 
 **What I bring to the table:**
 
-- 🌐 **Web Development** — Building responsive, fast, and modern web applications
-- 📱 **Mobile Development** — Cross-platform apps with Flutter & React Native
-- 🤖 **AI Integration** — Embedding GenAI & OpenAI into real products
-- ☁️ **Cloud & DevOps** — Deploying and managing apps on AWS with Docker & CI/CD
-- 🔗 **API Development** — Designing clean REST APIs that power frontend and mobile apps
+-  **Web Development** — Building responsive, fast, and modern web applications
+-  **Mobile Development** — Cross-platform apps with Flutter & React Native
+-  **AI Integration** — Embedding GenAI & OpenAI into real products
+-  **Cloud & DevOps** — Deploying and managing apps on AWS with Docker & CI/CD
+-  **API Development** — Designing clean REST APIs that power frontend and mobile apps
 
 > *"I focus on building things that are useful, scalable, and maintainable —
 > not just things that work on my machine."*
@@ -84,9 +84,9 @@ clean architecture, proper error handling, and scalable design from day one.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🎙️ LiveKit Voice Assistant
+###  LiveKit Voice Assistant
 > Real-time AI-powered voice communication system
 
 - Built with **LiveKit** for ultra-low latency real-time audio streaming
@@ -96,7 +96,7 @@ clean architecture, proper error handling, and scalable design from day one.
 
 ---
 
-### 🤖 Business Search Chatbot
+###  Business Search Chatbot
 > AI chatbot for intelligent business discovery and search
 
 - Conversational interface powered by **GenAI** for natural language understanding
@@ -106,7 +106,7 @@ clean architecture, proper error handling, and scalable design from day one.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -120,7 +120,7 @@ clean architecture, proper error handling, and scalable design from day one.
 
 ---
 
-## 🏆 Coding Profiles
+##  Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Vignesh0918/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/vigneshpolevaul1)
