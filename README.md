@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey%2C%20I'm%20Vignesh%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Builder%20%7C%20DevOps%20Explorer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=200&section=header&text=Hey%2C%20I'm%20Vignesh%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20AI%20Builder%20%7C%20DevOps%20Explorer&descAlignY=58&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+AI+Engineer;Python+%7C+Flutter+%7C+React+Native;Turning+ideas+into+scalable+products+🚀;Open+to+work+%7C+Let's+build+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4D9FFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer+%7C+AI+Engineer;Python+%7C+Flutter+%7C+React+Native;Turning+ideas+into+scalable+products+🚀;Open+to+work+%7C+Let's+build+together!)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,21 +10,36 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 
 ```yaml
 Name     : Vignesh M (Vicky)
 Role     : Fullstack Developer & AI Engineer
 Location : India 🇮🇳
-Focus    : AI Apps · Mobile · Cloud · DevOps
+Focus    : Web · Mobile · AI · DevOps · Cloud
 Status   : Open to Work ✅
 ```
 
-- 🔭 Building end-to-end products — **frontend to backend to cloud**
-- 🧠 Hands-on with **GenAI, OpenAI, LiveKit** for intelligent systems
-- ☁️ Passionate about **DevOps, Cloud, and scalable architecture**
-- 🤝 Open to **collaborations and full-time opportunities**
-- ⚡ Real-world builder — every project is production-ready
+<br/>
+
+I'm a **Fullstack Developer** who designs and ships complete digital products —
+from pixel-perfect **web interfaces** to smooth **mobile applications** and
+intelligent **AI-powered backends**.
+
+I don't just write code — I build **solutions that work in the real world.**
+Every project I take on is treated like a production system:
+clean architecture, proper error handling, and scalable design from day one.
+
+**What I bring to the table:**
+
+- 🌐 **Web Development** — Building responsive, fast, and modern web applications
+- 📱 **Mobile Development** — Cross-platform apps with Flutter & React Native
+- 🤖 **AI Integration** — Embedding GenAI & OpenAI into real products
+- ☁️ **Cloud & DevOps** — Deploying and managing apps on AWS with Docker & CI/CD
+- 🔗 **API Development** — Designing clean REST APIs that power frontend and mobile apps
+
+> *"I focus on building things that are useful, scalable, and maintainable —
+> not just things that work on my machine."*
 
 ---
 
@@ -45,7 +60,7 @@ Status   : Open to Work ✅
 
 ### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
+![GenAI](https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LiveKit](https://img.shields.io/badge/LiveKit-FF3B30?style=for-the-badge&logo=webrtc&logoColor=white)
 
@@ -95,11 +110,11 @@ Status   : Open to Work ✅
 
 <div align="center">
 
-![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vignesh0918&show_icons=true&theme=navy&hide_border=true&count_private=true&bg_color=000428&title_color=4D9FFF&icon_color=4D9FFF&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh0918&layout=compact&theme=navy&hide_border=true&bg_color=000428&title_color=4D9FFF&text_color=ffffff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vignesh0918&theme=dark&hide_border=true&background=000428&ring=4D9FFF&fire=4D9FFF&currStreakLabel=4D9FFF)
 
 </div>
 
@@ -125,8 +140,8 @@ Open to **Fullstack / AI / DevOps** roles. Let's build something great together!
 
 *"First, solve the problem. Then, write the code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=58A6FF&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Vignesh0918&color=4D9FFF&style=flat)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:000428&height=100&section=footer" width="100%"/>
 
 </div>
